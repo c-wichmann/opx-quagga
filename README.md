@@ -1,7 +1,7 @@
 # opx-quagga
 As requested by the community, this repo will be used to provide a way to compare and contrast performance of current OpenSwitch vs the previous OpenSwitch release (which only supported Quagga). 
 
-This version was compiled at the beginning of Feburary.  Additional optimizations have been added reducing the overall time by ~1.5 seconds and that will be updated over the next month as we begin the next Dell EMC sync cycle to the OPX Base.
+This version was compiled at the beginning of Feburary 2017.  Additional optimizations have been added reducing the overall time by ~1.5 seconds and that will be updated over the next month (March-April 2017) as we begin the next Dell EMC sync cycle to the OPX Base.
 
 
 As the previous OpenSwitch software was not tested on the Dell S6000, we have listed the CPU information (and frequency) that can be used to scale comparison. 
